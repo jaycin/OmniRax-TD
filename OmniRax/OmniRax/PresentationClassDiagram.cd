@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="This is the structure controlled by the gamestate manager in omnilibrary ">
+    <Position X="4.963" Y="1.35" Height="0.947" Width="1.953" />
+  </Comment>
+  <Class Name="OmniRax.Game_Screens.BaseGameState" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKAAAAAAAAAgAAEAAAAgAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game Screens\BaseGameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Credits">
+    <Position X="18.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Credits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.GamePlayScreen" Collapsed="true">
+    <Position X="16.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYRJBAHEqQoA5IBwgIIEgEFAQKkAEGIAwAQBIQQAAQ=</HashCode>
+      <FileName>Game Screens\GamePlayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.IntroScreen" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\IntroScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Leveling">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Leveling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.LoginScreen" Collapsed="true">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAEgAggAAAAAAAIAAAAAAAAAAiAAAAIBAAAQ=</HashCode>
+      <FileName>Game Screens\LoginScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Manual" Collapsed="true">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Manual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.MapScreen" Collapsed="true">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQGEAEEAEAKAgCgoAAAGAAABCAAAEAMwAAgAQAYAAQ=</HashCode>
+      <FileName>Game Screens\MapScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Options">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.PlayerStatistics">
+    <Position X="15.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\PlayerStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.StartMenu" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCAQAAAEkAAwAAADIAAAAgQAAgAAAAgAAAAAMAAAQ=</HashCode>
+      <FileName>Game Screens\StartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game1" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIYAEECBAQBCAwEAAAAAAYAAAAAAAAgAAAgAQAACAAU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Program" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

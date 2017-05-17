@@ -1,0 +1,1166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\ControlFont.spritefont</Source>
+      <Name>Fonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb</Output>
+      <Time>2012-06-18T16:29:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HudFont.spritefont</Source>
+      <Name>Fonts\HudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb</Output>
+      <Time>2012-09-19T21:45:27.121093+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Descriptionfont.spritefont</Source>
+      <Name>Fonts\Descriptionfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb</Output>
+      <Time>2012-06-20T03:56:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LoginPage\Title.spritefont</Source>
+      <Name>Fonts\LoginPage\Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Title.xnb</Output>
+      <Time>2012-09-11T15:46:53.854878+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LoginPage\Recommendation.spritefont</Source>
+      <Name>Fonts\LoginPage\Recommendation</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Recommendation.xnb</Output>
+      <Time>2012-09-11T15:46:53.84316+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LoginPage\Footer.spritefont</Source>
+      <Name>Fonts\LoginPage\Footer</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Footer.xnb</Output>
+      <Time>2012-09-11T15:46:53.849019+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\BackplaceHolder.jpg</Source>
+      <Name>MainScreen\BackplaceHolder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\BackRound.png</Source>
+      <Name>MainScreen\BackRound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\Name.png</Source>
+      <Name>MainScreen\Name</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\Picture3.png</Source>
+      <Name>MainScreen\Picture3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\Picture4.png</Source>
+      <Name>MainScreen\Picture4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MainScreen\Pointer.png</Source>
+      <Name>MainScreen\Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb</Output>
+      <Time>2012-06-03T19:42:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Pointer.png</Source>
+      <Name>UI Content\Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb</Output>
+      <Time>2012-06-03T19:55:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\BackRound.png</Source>
+      <Name>UI Content\BackRound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb</Output>
+      <Time>2012-06-03T19:55:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\plot.png</Source>
+      <Name>MapParts\plot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb</Output>
+      <Time>2012-06-03T19:53:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\placePlot.png</Source>
+      <Name>MapParts\placePlot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb</Output>
+      <Time>2012-06-03T19:53:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\skeleton_0.png</Source>
+      <Name>Enemies\skeleton_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\spider_giant.png</Source>
+      <Name>Enemies\spider_giant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\orc_archer_0.png</Source>
+      <Name>Enemies\orc_archer_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\orc_elite_0.png</Source>
+      <Name>Enemies\orc_elite_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\orc_heavy_1.png</Source>
+      <Name>Enemies\orc_heavy_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\orc_regular_0.png</Source>
+      <Name>Enemies\orc_regular_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_black.png</Source>
+      <Name>Enemies\goblin_lumberjack_black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_blue.png</Source>
+      <Name>Enemies\goblin_lumberjack_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_cyan.png</Source>
+      <Name>Enemies\goblin_lumberjack_cyan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_green.png</Source>
+      <Name>Enemies\goblin_lumberjack_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_orange.png</Source>
+      <Name>Enemies\goblin_lumberjack_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_pink.png</Source>
+      <Name>Enemies\goblin_lumberjack_pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_purple.png</Source>
+      <Name>Enemies\goblin_lumberjack_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_red.png</Source>
+      <Name>Enemies\goblin_lumberjack_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_white.png</Source>
+      <Name>Enemies\goblin_lumberjack_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\goblin_lumberjack_yellow.png</Source>
+      <Name>Enemies\goblin_lumberjack_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\spider_0.png</Source>
+      <Name>Enemies\spider_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\spider_large.png</Source>
+      <Name>Enemies\spider_large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb</Output>
+      <Time>2012-06-03T19:51:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\werebear_0.png</Source>
+      <Name>Enemies\werebear_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb</Output>
+      <Time>2012-06-03T21:26:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\werebear_white.png</Source>
+      <Name>Enemies\werebear_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb</Output>
+      <Time>2012-06-03T21:26:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Flag.png</Source>
+      <Name>UI Content\Flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb</Output>
+      <Time>2012-06-09T21:37:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\ContinueBtn.png</Source>
+      <Name>UI Content\ContinueBtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb</Output>
+      <Time>2012-06-12T03:24:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\StartButton.png</Source>
+      <Name>UI Content\StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb</Output>
+      <Time>2009-08-10T00:28:04.273437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\OMNIRAX2.png</Source>
+      <Name>UI Content\OMNIRAX2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb</Output>
+      <Time>2012-06-12T03:19:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\Map1_2.png</Source>
+      <Name>MapParts\Map1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb</Output>
+      <Time>2012-06-13T00:27:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\wood background.png</Source>
+      <Name>UI Content\wood background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb</Output>
+      <Time>2012-06-13T00:28:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\ButtonsSprite.png</Source>
+      <Name>UI Content\ButtonsSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb</Output>
+      <Time>2012-10-18T10:35:44.754227+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\StatusBar.png</Source>
+      <Name>UI Content\StatusBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb</Output>
+      <Time>2012-09-26T14:17:54.286132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\antlion.png</Source>
+      <Name>Enemies\antlion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\fire_ant.png</Source>
+      <Name>Enemies\fire_ant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\ice_ant.png</Source>
+      <Name>Enemies\ice_ant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\magician.png</Source>
+      <Name>Characters\magician</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_heavy.png</Source>
+      <Name>Characters\male_heavy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_light.png</Source>
+      <Name>Characters\male_light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_longbow.png</Source>
+      <Name>Characters\male_longbow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_longsword.png</Source>
+      <Name>Characters\male_longsword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_staff.png</Source>
+      <Name>Characters\male_staff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\male_unarmored.png</Source>
+      <Name>Characters\male_unarmored</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb</Output>
+      <Time>2012-06-13T04:54:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\minotaur.png</Source>
+      <Name>Enemies\minotaur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb</Output>
+      <Time>2012-09-18T02:35:32.088869+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\Barracks.png</Source>
+      <Name>Towers\Barracks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb</Output>
+      <Time>2012-06-13T05:07:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\berzerk_rune.png</Source>
+      <Name>SpellAndProjectiles\berzerk_rune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\coins100.png</Source>
+      <Name>SpellAndProjectiles\coins100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\coins25.png</Source>
+      <Name>SpellAndProjectiles\coins25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\coins5.png</Source>
+      <Name>SpellAndProjectiles\coins5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\explosion.png</Source>
+      <Name>SpellAndProjectiles\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\freeze.png</Source>
+      <Name>SpellAndProjectiles\freeze</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\heal.png</Source>
+      <Name>SpellAndProjectiles\heal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\icicle_0.png</Source>
+      <Name>SpellAndProjectiles\icicle_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb</Output>
+      <Time>2012-09-15T01:23:56.982421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\projectiles.png</Source>
+      <Name>SpellAndProjectiles\projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb</Output>
+      <Time>2012-06-13T06:15:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\quake_0.png</Source>
+      <Name>SpellAndProjectiles\quake_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\shield.png</Source>
+      <Name>SpellAndProjectiles\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\shock.png</Source>
+      <Name>SpellAndProjectiles\shock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb</Output>
+      <Time>2012-09-15T02:23:52.689453+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\sparks.png</Source>
+      <Name>SpellAndProjectiles\sparks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\teleport_rune.png</Source>
+      <Name>SpellAndProjectiles\teleport_rune</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb</Output>
+      <Time>2012-06-13T05:09:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\2D_bars.jpg</Source>
+      <Name>UI Content\2D_bars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb</Output>
+      <Time>2012-06-16T14:50:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\messageBox.png</Source>
+      <Name>UI Content\messageBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb</Output>
+      <Time>2012-06-20T02:05:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Fantasy-Map.jpg</Source>
+      <Name>UI Content\Fantasy-Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb</Output>
+      <Time>2012-09-17T23:33:02.849611+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\stained-glass-window.png</Source>
+      <Name>UI Content\stained-glass-window</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb</Output>
+      <Time>2012-06-19T22:00:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\BoxQuit.png</Source>
+      <Name>UI Content\BoxQuit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb</Output>
+      <Time>2012-06-20T02:01:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\BoxStart.png</Source>
+      <Name>UI Content\BoxStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb</Output>
+      <Time>2012-06-20T02:01:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\wood block.png</Source>
+      <Name>UI Content\wood block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb</Output>
+      <Time>2012-09-21T03:23:00.050781+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\back.png</Source>
+      <Name>UI Content\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb</Output>
+      <Time>2012-06-20T02:05:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\red-heart-clip-art.png</Source>
+      <Name>UI Content\red-heart-clip-art</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb</Output>
+      <Time>2012-06-20T02:06:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\gold.png</Source>
+      <Name>UI Content\gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb</Output>
+      <Time>2012-06-20T02:08:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\firstPageProtoype.png</Source>
+      <Name>UI Content\firstPageProtoype</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb</Output>
+      <Time>2012-06-20T04:38:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\Fireball.png</Source>
+      <Name>SpellAndProjectiles\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb</Output>
+      <Time>2012-09-15T14:17:49.333007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\MapGridBlock.png</Source>
+      <Name>MapParts\MapGridBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb</Output>
+      <Time>2012-08-08T18:07:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\Sircles.png</Source>
+      <Name>MapParts\Sircles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb</Output>
+      <Time>2012-09-16T16:26:37.456039+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\teleport_128.png</Source>
+      <Name>UI Content\teleport_128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\teleport_128.xnb</Output>
+      <Time>2012-08-19T21:03:31.366812+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpellAndProjectiles\teleport_128.png</Source>
+      <Name>SpellAndProjectiles\teleport_128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_128.xnb</Output>
+      <Time>2012-08-19T21:08:24.240836+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\TowerIdleFire.png</Source>
+      <Name>Towers\TowerIdleFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\TowerIdleFire.xnb</Output>
+      <Time>2012-09-27T16:17:02.05371+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\IceTower8x2.png</Source>
+      <Name>Towers\IceTower8x2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\IceTower8x2.xnb</Output>
+      <Time>2012-09-07T12:43:51.27246+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\LoginPicture.jpg</Source>
+      <Name>UI Content\Login\LoginPicture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginPicture.xnb</Output>
+      <Time>2012-09-11T15:46:44.421888+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\CreateAccount.png</Source>
+      <Name>UI Content\Login\CreateAccount</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\CreateAccount.xnb</Output>
+      <Time>2009-08-10T00:19:31.345703+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\LoginButton.png</Source>
+      <Name>UI Content\Login\LoginButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginButton.xnb</Output>
+      <Time>2009-08-10T00:19:34.904296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\StartGameButton.png</Source>
+      <Name>UI Content\Login\StartGameButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartGameButton.xnb</Output>
+      <Time>2009-08-10T00:19:34.21289+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\loginLogo.png</Source>
+      <Name>UI Content\Login\loginLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\loginLogo.xnb</Output>
+      <Time>2009-08-10T01:27:35.460937+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\ProgressButton.png</Source>
+      <Name>UI Content\Login\ProgressButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ProgressButton.xnb</Output>
+      <Time>2009-08-10T01:27:35.444335+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\SaveMenu.png</Source>
+      <Name>UI Content\Login\SaveMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\SaveMenu.xnb</Output>
+      <Time>2009-08-10T01:27:35.447265+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\ForcesCollide.png</Source>
+      <Name>UI Content\Login\ForcesCollide</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ForcesCollide.xnb</Output>
+      <Time>2012-09-16T04:33:36.09471+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Achievements\AchievementIcon.png</Source>
+      <Name>UI Content\Achievements\AchievementIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Achievements\AchievementIcon.xnb</Output>
+      <Time>2009-08-10T01:27:35.817382+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Towers\Lt.png</Source>
+      <Name>Towers\Lt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Lt.xnb</Output>
+      <Time>2012-09-20T19:38:25.854492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\buttons_2.png</Source>
+      <Name>UI Content\buttons_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\buttons_2.xnb</Output>
+      <Time>2012-09-20T23:11:59.250976+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\StartMenuBackRound.png</Source>
+      <Name>UI Content\Login\StartMenuBackRound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartMenuBackRound.xnb</Output>
+      <Time>2012-09-16T04:34:41.611312+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Entarya.png</Source>
+      <Name>MapParts\OmniRax-Map_Entarya</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Entarya.xnb</Output>
+      <Time>2008-06-09T22:53:37+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Sempridge.png</Source>
+      <Name>MapParts\OmniRax-Map_Sempridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Sempridge.xnb</Output>
+      <Time>2008-10-03T18:12:31+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Snodom.png</Source>
+      <Name>MapParts\OmniRax-Map_Snodom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Snodom.xnb</Output>
+      <Time>2008-09-30T19:28:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Top_Entarya.png</Source>
+      <Name>MapParts\OmniRax-Map_Top_Entarya</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Entarya.xnb</Output>
+      <Time>2008-06-09T22:53:37+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Top_Sempridge.png</Source>
+      <Name>MapParts\OmniRax-Map_Top_Sempridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb</Output>
+      <Time>2008-10-03T18:12:31+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MapParts\OmniRax-Map_Top_Snodom.png</Source>
+      <Name>MapParts\OmniRax-Map_Top_Snodom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Snodom.xnb</Output>
+      <Time>2009-02-09T10:22:07+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\MapScreen\MapScreenOverLay.png</Source>
+      <Name>UI Content\MapScreen\MapScreenOverLay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\MapScreenOverLay.xnb</Output>
+      <Time>2012-09-16T23:25:30.827132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Coin.png</Source>
+      <Name>UI Content\Coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Coin.xnb</Output>
+      <Time>2012-09-17T02:47:36.414046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\185px-Shine_Sprite.png</Source>
+      <Name>UI Content\185px-Shine_Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\185px-Shine_Sprite.xnb</Output>
+      <Time>2012-09-18T00:13:44.786135+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\cursed_grave.png</Source>
+      <Name>UI Content\cursed_grave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\cursed_grave.xnb</Output>
+      <Time>2012-09-18T00:13:44.789065+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\GameOver 1.png</Source>
+      <Name>UI Content\GameOver 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GameOver 1.xnb</Output>
+      <Time>2012-09-18T00:13:44.791994+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\185px-Shine_Sprite.png</Source>
+      <Name>UI Content\Login\185px-Shine_Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\185px-Shine_Sprite.xnb</Output>
+      <Time>2012-09-18T04:07:49.691406+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Login\GameOver 1.png</Source>
+      <Name>UI Content\Login\GameOver 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\GameOver 1.xnb</Output>
+      <Time>2012-09-18T04:07:49.70996+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\MapScreen\EnterNameMap.png</Source>
+      <Name>UI Content\MapScreen\EnterNameMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\EnterNameMap.xnb</Output>
+      <Time>2012-09-19T16:20:20.877929+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\GamePlay\Exit.png</Source>
+      <Name>UI Content\GamePlay\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Exit.xnb</Output>
+      <Time>2012-09-20T00:50:58.713867+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\GamePlay\Sound.png</Source>
+      <Name>UI Content\GamePlay\Sound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Sound.xnb</Output>
+      <Time>2012-09-20T00:50:58.77832+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\tutorial.png</Source>
+      <Name>UI Content\tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\tutorial.xnb</Output>
+      <Time>2012-09-21T02:40:32.923828+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\Victory.png</Source>
+      <Name>UI Content\Victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Victory.xnb</Output>
+      <Time>2012-09-21T02:40:47.416992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Content\StatusBar1.png</Source>
+      <Name>UI Content\StatusBar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar1.xnb</Output>
+      <Time>2012-10-18T13:21:12.824196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\metal-small1.wav</Source>
+      <Name>Sounds\metal-small1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb</Output>
+      <Time>2012-06-03T19:55:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\metal-small2.wav</Source>
+      <Name>Sounds\metal-small2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb</Output>
+      <Time>2012-06-03T19:55:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\metal-small3.wav</Source>
+      <Name>Sounds\metal-small3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb</Output>
+      <Time>2012-06-03T19:55:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\sword-unsheathe5.wav</Source>
+      <Name>Sounds\sword-unsheathe5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb</Output>
+      <Time>2012-06-03T19:55:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\chainmail2.wav</Source>
+      <Name>Sounds\chainmail2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb</Output>
+      <Time>2012-06-03T19:55:12+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRaxContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRaxContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniLibrary\bin\x86\Debug\OmniLibrary.dll</Key>
+        <Value>2015-04-16T15:29:52.5635686+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-30T14:45:44.6310549+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

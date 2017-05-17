@@ -1,0 +1,4 @@
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRaxContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRaxContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRaxContent\obj\x86\Release\ResolveAssemblyReference.cache
+G:\OmniRax(30)\OmniRax\OmniRaxContent\obj\x86\Release\ResolveAssemblyReference.cache

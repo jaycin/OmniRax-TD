@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OmniRax.Game_Screens.BaseGameState" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKAAAAAAAAAhAAEAAAAgAAAAAAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>Game Screens\BaseGameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Credits">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Credits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.GamePlayScreen">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUYxogKncqQmR5IBwoIIFgBDHQulIEWBBwG0BYYQADU=</HashCode>
+      <FileName>Game Screens\GamePlayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.LoginScreen">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>5BQgUEHEAkgGhgBCAAECgMAAAYSAQAIAiQAAAIBRVAQ=</HashCode>
+      <FileName>Game Screens\LoginScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.MapScreen">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QQQGUAEkAEAKBgSgsAAAGAAABCgAIEAMwQEgIYQYAAQ=</HashCode>
+      <FileName>Game Screens\MapScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.Options">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Screens\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.PlayerStatistics">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQiQAEAAAAAAgAAAAAAAAAAAAAAAAAAgBAAAAAAAAQ=</HashCode>
+      <FileName>Game Screens\PlayerStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game_Screens.StartMenu">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEQCAQAAAGkAAwAAADIAAAAgQAAgAAAAgAAAAAMAAAQ=</HashCode>
+      <FileName>Game Screens\StartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniRax.Game1">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EIYAEECBAQBCAwEAAAEAAYAAAAAAAAgBAAgAQAACAAU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

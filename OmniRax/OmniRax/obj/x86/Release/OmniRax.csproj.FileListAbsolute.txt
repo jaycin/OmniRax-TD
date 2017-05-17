@@ -1,0 +1,408 @@
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\ControlFont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\HudFont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\Descriptionfont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Title.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Name.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture3.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture4.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Pointer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Pointer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\plot.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\placePlot.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\skeleton_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_giant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_archer_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_elite_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_heavy_1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_regular_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_large.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_white.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Flag.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ContinueBtn.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StartButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\OMNIRAX2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Map1_2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood background.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ButtonsSprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StatusBar.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\antlion.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\fire_ant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\ice_ant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\magician.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_heavy.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_light.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longbow.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longsword.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_staff.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_unarmored.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\minotaur.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Barracks.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\heal.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shield.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shock.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\2D_bars.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\messageBox.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Fantasy-Map.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\stained-glass-window.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxQuit.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxStart.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood block.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\back.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\gold.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\firstPageProtoype.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\MapGridBlock.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Sircles.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\teleport_128.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\TowerIdleFire.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\IceTower8x2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\loginLogo.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Lt.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\buttons_2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Coin.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\cursed_grave.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GameOver 1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small3.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\chainmail2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe.config
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.dll
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.exe
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\tutorial.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Victory.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\ControlFont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\HudFont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\Descriptionfont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Title.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Name.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture3.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture4.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Pointer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Pointer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\plot.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\placePlot.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\skeleton_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_giant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_archer_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_elite_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_heavy_1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_regular_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_large.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_white.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Flag.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ContinueBtn.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StartButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\OMNIRAX2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Map1_2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood background.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ButtonsSprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StatusBar.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\antlion.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\fire_ant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\ice_ant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\magician.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_heavy.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_light.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longbow.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longsword.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_staff.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_unarmored.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\minotaur.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Barracks.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\heal.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shield.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shock.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\2D_bars.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\messageBox.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Fantasy-Map.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\stained-glass-window.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxQuit.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxStart.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood block.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\back.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\gold.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\firstPageProtoype.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\MapGridBlock.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Sircles.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\teleport_128.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\TowerIdleFire.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\IceTower8x2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\loginLogo.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Lt.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\buttons_2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Coin.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\cursed_grave.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GameOver 1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\tutorial.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Victory.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small3.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\chainmail2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe.config
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.pdb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.dll
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.pdb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.exe
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.pdb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe.manifest
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.application
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.exe.manifest
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.application
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StatusBar1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\ControlFont.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\HudFont.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\Descriptionfont.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Title.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Recommendation.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Fonts\LoginPage\Footer.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackplaceHolder.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\BackRound.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Name.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture3.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Picture4.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MainScreen\Pointer.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Pointer.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BackRound.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\plot.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\placePlot.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\skeleton_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_giant.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_archer_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_elite_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_heavy_1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\orc_regular_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_black.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_blue.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_cyan.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_green.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_orange.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_pink.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_purple.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_red.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_white.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\goblin_lumberjack_yellow.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\spider_large.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\werebear_white.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Flag.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ContinueBtn.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StartButton.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\OMNIRAX2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Map1_2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood background.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\ButtonsSprite.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StatusBar.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\antlion.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\fire_ant.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\ice_ant.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\magician.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_heavy.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_light.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longbow.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_longsword.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_staff.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Characters\male_unarmored.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Enemies\minotaur.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Barracks.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\berzerk_rune.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins100.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins25.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\coins5.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\explosion.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\freeze.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\heal.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\icicle_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\projectiles.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\quake_0.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shield.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\shock.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\sparks.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_rune.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\2D_bars.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\messageBox.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Fantasy-Map.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\stained-glass-window.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxQuit.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\BoxStart.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\wood block.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\back.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\red-heart-clip-art.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\gold.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\firstPageProtoype.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\Fireball.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\MapGridBlock.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\Sircles.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\teleport_128.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\SpellAndProjectiles\teleport_128.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\TowerIdleFire.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\IceTower8x2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginPicture.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\CreateAccount.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\LoginButton.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartGameButton.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\loginLogo.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ProgressButton.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\SaveMenu.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\ForcesCollide.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Achievements\AchievementIcon.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Towers\Lt.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\buttons_2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\StartMenuBackRound.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Entarya.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Sempridge.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Snodom.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Coin.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\185px-Shine_Sprite.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\cursed_grave.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GameOver 1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\185px-Shine_Sprite.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Login\GameOver 1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\MapScreen\EnterNameMap.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Exit.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\GamePlay\Sound.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\tutorial.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\Victory.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\UI Content\StatusBar1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small1.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\metal-small3.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\sword-unsheathe5.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\Content\Sounds\chainmail2.xnb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe.config
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe.manifest
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.application
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.exe
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniRax.pdb
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.dll
+G:\OmniRax(30)\OmniRax\OmniRax\bin\x86\Release\OmniLibrary.pdb
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\ResolveAssemblyReference.cache
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.exe.manifest
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.application
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.exe
+G:\OmniRax(30)\OmniRax\OmniRax\obj\x86\Release\OmniRax.pdb

@@ -1,0 +1,680 @@
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.pdb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.dll
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.pdb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.pdb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ExitBtn.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OptionsButton.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\fireball_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\buckler.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\clothes.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\dagger.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\greatbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\greatstaff.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\greatsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\leather_armor.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\longbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\longsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\male_head1.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\male_head2.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\male_head3.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\rod.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\shield.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\shortbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\shortsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\slingshot.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\staff.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\steel_armor.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Hero\wand.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\buckler.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\clothes.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\dagger.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\greatbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\greatstaff.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\greatsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\head_long.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\leather_armor.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\longbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\longsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\rod.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\shield.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\shortbow.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\shortsword.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\slingshot.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\steel_armor.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\staff.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\Heroine\wand.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\MageTowerIdle.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\MagiTower.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.config
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb
+C:\Users\jacqui\Documents\Visual Studio 2010\Projects\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.config
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.pdb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.dll
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.pdb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\teleport_128.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\TowerIdleFire.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\IceTower8x2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.config
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.dll
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.pdb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Title.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Lt.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\loginLogo.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\buttons_2.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Coin.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\cursed_grave.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GameOver 1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\tutorial.xnb
+C:\Users\jacqui\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Victory.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Title.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\teleport_128.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\TowerIdleFire.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\IceTower8x2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\loginLogo.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Lt.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\buttons_2.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Coin.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\cursed_grave.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GameOver 1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\tutorial.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Victory.xnb
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.manifest
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.application
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe.manifest
+C:\Users\s210140534\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.application
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Title.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\teleport_128.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\TowerIdleFire.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\IceTower8x2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\loginLogo.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Lt.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\buttons_2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Coin.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\cursed_grave.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GameOver 1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\tutorial.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Victory.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.config
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.manifest
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.application
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.dll
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe.manifest
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.application
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe
+C:\Users\jaycin.COMPRSA\Desktop\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\HudFont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\Descriptionfont.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Title.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Recommendation.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Fonts\LoginPage\Footer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackplaceHolder.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\BackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Name.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture3.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Picture4.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MainScreen\Pointer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Pointer.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\plot.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\placePlot.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\skeleton_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_giant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_archer_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_elite_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_heavy_1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\orc_regular_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_black.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_blue.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_cyan.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_green.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_orange.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_pink.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_purple.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_red.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_white.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\goblin_lumberjack_yellow.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\spider_large.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\werebear_white.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Flag.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ContinueBtn.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StartButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\OMNIRAX2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Map1_2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood background.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\ButtonsSprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\antlion.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\fire_ant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\ice_ant.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\magician.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_heavy.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_light.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longbow.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_longsword.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_staff.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Characters\male_unarmored.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Enemies\minotaur.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Barracks.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\berzerk_rune.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins100.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins25.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\coins5.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\explosion.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\freeze.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\heal.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\icicle_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\projectiles.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\quake_0.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shield.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\shock.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\sparks.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_rune.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\2D_bars.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\messageBox.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Fantasy-Map.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\stained-glass-window.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxQuit.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\BoxStart.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\wood block.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\back.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\red-heart-clip-art.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\gold.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\firstPageProtoype.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\Fireball.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\MapGridBlock.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\Sircles.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\teleport_128.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\SpellAndProjectiles\teleport_128.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\TowerIdleFire.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\IceTower8x2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginPicture.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\CreateAccount.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\LoginButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartGameButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\loginLogo.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ProgressButton.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\SaveMenu.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\ForcesCollide.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Achievements\AchievementIcon.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Towers\Lt.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\buttons_2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\StartMenuBackRound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Entarya.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Sempridge.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Snodom.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Entarya.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Sempridge.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\MapParts\OmniRax-Map_Top_Snodom.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\MapScreenOverLay.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Coin.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\185px-Shine_Sprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\cursed_grave.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GameOver 1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\185px-Shine_Sprite.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Login\GameOver 1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\MapScreen\EnterNameMap.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Exit.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\GamePlay\Sound.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\tutorial.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\Victory.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\UI Content\StatusBar1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small1.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\metal-small3.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\sword-unsheathe5.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\Content\Sounds\chainmail2.xnb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.config
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe.manifest
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.application
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.exe
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniRax.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.dll
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\bin\x86\Debug\OmniLibrary.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe.manifest
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.application
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.exe
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.pdb
+C:\Users\jaycin.COMPRSA\Desktop\OLD\OmniRax(30)\OmniRax\OmniRax\obj\x86\Debug\OmniRax.csprojResolveAssemblyReference.cache

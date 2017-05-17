@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OmniLibrary.GameObject" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>SZQBiAAOEAEgm4go4aOAMAQHABglFULgCSxAiEgcCYg=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.GameState">
+    <Position X="23" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAgAwAAEgAAAAAAAAAEAAAAAABAAAIAACQ=</HashCode>
+      <FileName>GameState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.GameStateManager">
+    <Position X="23.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAQAAIAAAAAIBQBAAAADACAACAAAAAAQAAAAIAQAAAA=</HashCode>
+      <FileName>GameStateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.ObjectManager">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>KAcAQgACQAAAAoQAgGSMMAIgQAIEgAAABCBAggAgAAA=</HashCode>
+      <FileName>ObjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Sounds">
+    <Position X="21.25" Y="15" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Sounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.Coin">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAgABAAABAAAAAAAAAEAA=</HashCode>
+      <FileName>Controls\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.Hud">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\Hud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.Label">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAACIAAAAA=</HashCode>
+      <FileName>Controls\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.LinkLabel">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAhAAQAgQAQAAAQEAAgAAAAAEIBAAQCAQAAAA=</HashCode>
+      <FileName>Controls\LinkLable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.LoadingBar">
+    <Position X="17" Y="15" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEQAABAAAAAABoAAABIAAAAAAAAAADAAAAAQAABAQAA=</HashCode>
+      <FileName>Controls\LoadingBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.MessageBox">
+    <Position X="19" Y="18.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABYAAABQAAAAAgAAgAAACAABAAAAABGAAAAACAACAgA=</HashCode>
+      <FileName>Controls\MessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.PictureBox">
+    <Position X="17" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAgAAAAAAAAAAEEAABhAEAAAQAAAAAAE=</HashCode>
+      <FileName>Controls\PictureBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Controls.StatusBar">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAYBCQAAgQAQAgQAAAAAAAAACAABABAAAAAAAEACEAk=</HashCode>
+      <FileName>Controls\StatusBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.GraveStone">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAQAwAAAAAAIIAAEkAAChBEAAAQAQACEgA=</HashCode>
+      <FileName>Controls\GraveStone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.Tutorial">
+    <Position X="19.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAQAwAAAAAAAAAAEEAAAhBECAAQAQAAEgA=</HashCode>
+      <FileName>Controls\Tutorial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.DropEffect">
+    <Position X="15.25" Y="15.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAQAwAAAAAAAAAAEEAAAhBEAAAQAAAAEgA=</HashCode>
+      <FileName>Effects\DropEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.RuneEffect">
+    <Position X="19" Y="15" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAQAwAAAAAAAAAAEEAAAhBEAAAQAQAAEgA=</HashCode>
+      <FileName>Effects\RuneEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.SparkEffect">
+    <Position X="17" Y="18.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAQAwAAAAAAAAAAEEAAAhBEAAAQAQAAEgA=</HashCode>
+      <FileName>Effects\SparkEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.Container">
+    <Position X="9.5" Y="18.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OmniLibrary.Map.Container.Archer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map\Container.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OmniLibrary.Map.Container.Artillery" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map\Container.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OmniLibrary.Map.Container.MageTower" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map\Container.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OmniLibrary.Map.Container.Barracks" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map\Container.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OmniLibrary.Map.Container.Wave" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Map\Container.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AJwBIBAAAAAQAkBAAABAcAAAEAABABAACABAAAgIQAA=</HashCode>
+      <FileName>Map\Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.MapLandscape">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAAgAAAAAAAgACEEICABAAAgAQAAAAEAA=</HashCode>
+      <FileName>Map\MapLandscape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.Plot">
+    <Position X="13.5" Y="18.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAQQAAAAkAAQAwAAAAEAAkABEEAABBBEAAAQAwAAEIA=</HashCode>
+      <FileName>Map\Plot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.StageBox">
+    <Position X="15.25" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQDAIAAiAAAAgAAAQAACAgAAAAAAAARAAEQQAACEAA=</HashCode>
+      <FileName>Map\StageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.ArcherTower">
+    <Position X="11.25" Y="8.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAkAAAABAAAAAEEAAABBACABQAAgAUAA=</HashCode>
+      <FileName>Towers\ArcherTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.ArtilleryTower">
+    <Position X="9.75" Y="15.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAEFAAABBQAAAQAAAAEAA=</HashCode>
+      <FileName>Towers\ArtilleryTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.Barracks">
+    <Position X="18.75" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAEFAAABBQAAAQAAAAEAA=</HashCode>
+      <FileName>Towers\Barracks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Map.MageTower">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAdBEBCAAAAQCwQAggAAIBEgEEUIFBBACABYKACAFAA=</HashCode>
+      <FileName>Towers\MageTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.aStar">
+    <Position X="21.25" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OmniLibrary.EnemyEngine.aStar.status" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EnemyEngine\aStar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAgAAAAAAAAEQAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyEngine\aStar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.HeathBar">
+    <Position X="17.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQACBAIAAAADgAAABAAAAAAIAAAADAAAAAQAAAAEAg=</HashCode>
+      <FileName>EnemyEngine\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.MovementGrid">
+    <Position X="13.5" Y="15.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAQAABABAAAAAgQAQEBAEAAIEAAAAAABAAAQAAAAAAE=</HashCode>
+      <FileName>EnemyEngine\MovementGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.Projectile">
+    <Position X="11.5" Y="15.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgQhAhCRAIAQoxAAACAASgAEkIBBBAIADQFQCAhBAAE=</HashCode>
+      <FileName>EnemyEngine\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.Skeleton">
+    <Position X="11.5" Y="19" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="OmniLibrary.EnemyEngine.Skeleton.ActionState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EnemyEngine\Skeleton.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CgQpSxCAAWBBA0qCQGBUgAQQEBBUEBGAECBUgwgBZAk=</HashCode>
+      <FileName>EnemyEngine\Skeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.Square" Collapsed="true">
+    <Position X="23" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgQCAACAAgAAQgAAAEIIAAACGAAAAgAAAAJAAAoAQgA=</HashCode>
+      <FileName>EnemyEngine\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.EnemyEngine.Wave">
+    <Position X="15.25" Y="18.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QBwLImAAAhnEAwKRUlBhMAAR4DZAIGIhgIEgEgBSiAQ=</HashCode>
+      <FileName>EnemyEngine\Wave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmniLibrary.Towers.PrimitiveLine">
+    <Position X="23" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIAAHgAAAIAgAAAEAAAACgIFAAAFAAAAA=</HashCode>
+      <FileName>PrimitiveLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="OmniLibrary.Map.PlotPosition">
+    <Position X="21.25" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlotPosition.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OmniLibrary.PlayerData.Achievements">
+    <Position X="21.25" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAQAAAAAIAEA=</HashCode>
+      <FileName>PlayerData\Achievements.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OmniLibrary.PlayerData.Statistics" Collapsed="true">
+    <Position X="21.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAQAAAAAEJAAAAAABAAABAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>PlayerData\Statistics.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OmniLibrary.Structs.Player">
+    <Position X="21.25" Y="9.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAQCAAAAAAAgAACAAAAQAAAABEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structs\Player.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
